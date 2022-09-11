@@ -1,0 +1,22 @@
+h1 {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+div.container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+div.input {
+  display: flex;
+  flex-flow: column wrap;
+  width: 30%;
+}
+
+div.grid {
+  display: flex;
+  flex-flow: column wrap;
+  width: 70%;
+}
